@@ -1,17 +1,12 @@
 .container {
     width: 960px;
+    height: 960px;
     border: 4px red solid;
     display: flex;
     flex-wrap: wrap;
-    
 }
 
-.square-div {
-    width: 60px;
-    height: 60px;
-    background-color: aqua;
-}
-
-.colored {
-    background-color: blanchedalmond;
+.input-button {
+    display: block;
+    margin: 0px 430px 6px;
 }
